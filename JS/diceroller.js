@@ -79,10 +79,10 @@ function showDice(myRoll) {
 
     let card = document.createElement("DIV");
 
-    let face = document.createElement("IMG");  // Create a <IMG> node
-    face.classList.add("dice");
+    //let face = document.createElement("IMG");  // Create a <IMG> node
+   // face.classList.add("dice");
 
-    face.src = diceGraphics + diceFaces[myRoll - 1];
+    //face.src = diceGraphics + diceFaces[myRoll - 1];
 
   
     card.appendChild(drawDice(myRoll)); // SVG Drawn version
