@@ -85,8 +85,8 @@ function showDice(myRoll) {
     face.src = diceGraphics + diceFaces[myRoll - 1];
 
   
-    //card.appendChild(drawDice(myRoll)); // SVG Drawn version
-    card.appendChild(face); // IMG driven version
+    card.appendChild(drawDice(myRoll)); // SVG Drawn version
+    //card.appendChild(face); // IMG driven version
     card.classList.add("diceCard");
 
     myApp.appendChild(card);
