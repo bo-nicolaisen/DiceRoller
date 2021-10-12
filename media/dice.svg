@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="dice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="diceOne" display="none">
+	<path display="inline" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="13" stroke-miterlimit="10" d="M415.4,488.1H96.6
+		c-40.2,0-72.7-32.6-72.7-72.7V96.6c0-40.2,32.6-72.7,72.7-72.7h318.7c40.2,0,72.7,32.6,72.7,72.7v318.7
+		C488.1,455.5,455.5,488.1,415.4,488.1z"/>
+	<circle display="inline" fill="#1D1D1B" cx="250.8" cy="256" r="43.7"/>
+</g>
+<g id="diceTwo" display="none">
+	<path display="inline" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="13" stroke-miterlimit="10" d="M415.4,488.1H96.6
+		c-40.2,0-72.7-32.6-72.7-72.7V96.6c0-40.2,32.6-72.7,72.7-72.7h318.7c40.2,0,72.7,32.6,72.7,72.7v318.7
+		C488.1,455.5,455.5,488.1,415.4,488.1z"/>
+	<circle display="inline" fill="#1D1D1B" cx="104.8" cy="389.3" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="395.9" cy="122.7" r="43.7"/>
+</g>
+<g id="diceThree" display="none">
+	<path display="inline" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="13" stroke-miterlimit="10" d="M415.4,488.1H96.6
+		c-40.2,0-72.7-32.6-72.7-72.7V96.6c0-40.2,32.6-72.7,72.7-72.7h318.7c40.2,0,72.7,32.6,72.7,72.7v318.7
+		C488.1,455.5,455.5,488.1,415.4,488.1z"/>
+	<circle display="inline" fill="#1D1D1B" cx="104.8" cy="389.3" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="250.8" cy="256" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="395.9" cy="122.7" r="43.7"/>
+</g>
+<g id="diceFour" display="none">
+	<path display="inline" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="13" stroke-miterlimit="10" d="M415.4,488.1H96.6
+		c-40.2,0-72.7-32.6-72.7-72.7V96.6c0-40.2,32.6-72.7,72.7-72.7h318.7c40.2,0,72.7,32.6,72.7,72.7v318.7
+		C488.1,455.5,455.5,488.1,415.4,488.1z"/>
+	<circle display="inline" fill="#1D1D1B" cx="104.8" cy="122.7" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="104.8" cy="389.3" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="395.9" cy="122.7" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="395.9" cy="389.3" r="43.7"/>
+</g>
+<g id="diceFive" display="none">
+	<path display="inline" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="13" stroke-miterlimit="10" d="M415.4,488.1H96.6
+		c-40.2,0-72.7-32.6-72.7-72.7V96.6c0-40.2,32.6-72.7,72.7-72.7h318.7c40.2,0,72.7,32.6,72.7,72.7v318.7
+		C488.1,455.5,455.5,488.1,415.4,488.1z"/>
+	<circle display="inline" fill="#1D1D1B" cx="104.8" cy="122.7" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="104.8" cy="389.3" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="250.8" cy="256" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="395.9" cy="122.7" r="43.7"/>
+	<circle display="inline" fill="#1D1D1B" cx="395.9" cy="389.3" r="43.7"/>
+</g>
+<g id="diceSix">
+	<path fill="#FFFFFF" stroke="#1D1D1B" stroke-width="13" stroke-miterlimit="10" d="M415.4,488.1H96.6c-40.2,0-72.7-32.6-72.7-72.7
+		V96.6c0-40.2,32.6-72.7,72.7-72.7h318.7c40.2,0,72.7,32.6,72.7,72.7v318.7C488.1,455.5,455.5,488.1,415.4,488.1z"/>
+	<circle fill="#1D1D1B" cx="104.8" cy="122.7" r="43.7"/>
+	<circle fill="#1D1D1B" cx="104.8" cy="256" r="43.7"/>
+	<circle fill="#1D1D1B" cx="104.8" cy="389.3" r="43.7"/>
+	<circle fill="#1D1D1B" cx="395.9" cy="122.7" r="43.7"/>
+	<circle fill="#1D1D1B" cx="395.9" cy="256" r="43.7"/>
+	<circle fill="#1D1D1B" cx="395.9" cy="389.3" r="43.7"/>
+</g>
+</svg>
